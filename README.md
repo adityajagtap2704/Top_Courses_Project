@@ -33,21 +33,6 @@ This project displays a list of high-quality development and programming courses
 
 ---
 
-## 📁 Folder Structure
-
-Top_Courses_Project/
-├── public/
-├── src/
-│ ├── components/ # Reusable components like Card, FilterBar, etc.
-│ ├── data/ # Course data (mocked/static)
-│ ├── utils/ # Utility functions (if any)
-│ ├── App.js # Root component
-│ └── index.js # Entry point
-├── package.json
-└── README.md
-
----
-
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally:
