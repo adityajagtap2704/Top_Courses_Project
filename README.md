@@ -1,54 +1,49 @@
-# 📚 Top Courses Project – React Frontend
+# 🎓 Top Courses Project
 
-A sleek, responsive frontend-only React.js application that showcases the **top programming courses** with interactive UI cards and category-based filtering. Built for performance and clarity, this project provides an elegant layout to explore and highlight popular tech courses.
+A simple and responsive **frontend-only** project that showcases top programming courses using **HTML**, **CSS**, and **JavaScript**. Built to demonstrate strong fundamentals of web development with clean design and interactive features.
 
 ---
 
-## 🚀 Project Overview
+## 📌 Project Description
 
-This project displays a list of high-quality development and programming courses using a clean and modern interface. The courses are categorized (e.g., Development, Design, Data Science) and can be filtered using a user-friendly UI.
-
-> 📌 **Note:** This is a frontend-only project. Data is statically sourced (or mocked), and there's no backend/API integration yet.
+The **Top Courses Project** displays a curated list of top-rated tech courses in a visually appealing card layout. Users can filter courses by category using JavaScript, making it easier to explore topics of interest.
 
 ---
 
 ## ✨ Features
 
-- 🧩 Clean UI with Tailwind CSS
-- 🗂️ Category-based Course Filtering
-- 📱 Fully Responsive Design (Mobile, Tablet, Desktop)
-- 🎨 Hover Effects and Interactive Cards
-- ⚡ Lightning-fast Performance
+- 🖼️ Course cards with name, category, and rating
+- 🔍 Filter courses by category using JavaScript
+- 📱 Fully responsive for mobile, tablet, and desktop
+- 🎨 Clean and custom-styled CSS
+- ⚡ No frameworks or libraries used
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Technology     | Purpose                       |
-|----------------|-------------------------------|
-| React.js       | Frontend UI framework         |
-| Tailwind CSS   | Styling and responsive layout |
-| JavaScript     | Dynamic rendering             |
-| Vite           | Fast development build tool   |
+| Technology  | Usage                     |
+|-------------|---------------------------|
+| HTML        | Structure / Markup        |
+| CSS         | Styling / Layout          |
+| JavaScript  | Interactivity / Filtering |
+
+---
 
 ---
 
 ## 🚀 Getting Started
 
-Follow these steps to run the project locally:
+You can run this project directly in your browser without any installation.
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/adityajagtap2704/Top_Courses_Project.git
-cd Top_Courses_Project
-```
+### ✅ Option 1: Open Locally
 
-### 2. Install Dependencies
-```bash
-npm install
-```
+### 1. Clone the repository:
+   ```bash
+   git clone https://github.com/adityajagtap2704/Top_Courses_Project.git
+   cd Top_Courses_Project
+  ```
 
-### 3. Run the Development Server
-```bash
-npm run dev
-```
+### 2. Run the Project
+Open index.html in your browser.   
+
